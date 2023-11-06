@@ -1,3 +1,4 @@
+// Java to print the amount  Mr.Bob has to pay 
 public class simple2 {
     int year;
     double rate;
