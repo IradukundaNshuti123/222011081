@@ -1,3 +1,4 @@
+// Java to illustrate the switch case
 class swtch{
 public static void main(String[] args) {
     int day=5;
